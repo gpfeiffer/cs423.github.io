@@ -1,15 +1,14 @@
 # Site settings
-title: "CS423: Networks"
-email: cs423.nuig@gmail.com
+title: "Götz Pfeiffer"
+email: goetz.pfeiffer@nuigalway.ie
 description: > # this means to ignore newlines until "baseurl:"
-  Network Science is the study of network representations of physical, 
-  biological, and social phenomena.
+  Seminar talks and other notes ...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://schmidt.nuigalway.ie" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  cs423
-disqus: cs423
-google_analytics: UA-72475442-1
+github_username:  gpfeiffer
+disqus: cs424
+#google_analytics: UA-72475442-1
 
 # Build settings
 markdown: kramdown
