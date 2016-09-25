@@ -1,4 +1,4 @@
-# cs423.github.io
-The CS423 Blog
+# gpfeiffer.github.io
+The Blog
 
-Find me [online](http://cs423.github.io).
+Find me [online](http://gpfeiffer.github.io).
